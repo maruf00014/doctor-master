@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Medi360</string>
+    <string-array name="specialisation">
+        <item>Select Specialisation</item>
+        <item>Anesthesiologists </item>
+        <item>Cardiologist</item>
+
+
+    </string-array>
+
+    <string-array name="Anesthesiologists">
+        <item>Select Doctor Name</item>
+        <item>Dr. Tasmia Tahmid</item>
+        <item>Dr. Waheed Zaman</item>
+        <item>Dr. Uttam Kumar Saha</item>
+        <item>Dr. Zahurul Huq</item>
+    </string-array>
+
+    <string-array name="Cardiologist">
+        <item>Select Doctor Name</item>
+        <item>Professor Dr. A. B. M. Yunus</item>
+        <item>Dr. A, B, Siddiq</item>
+        <item>Dr. Zinnat Ara Islam</item>
+    </string-array>
+
+
+    <string-array name="list_empty">
+        <item>Select Doctor Name</item>
+    </string-array>
+
+</resources>
